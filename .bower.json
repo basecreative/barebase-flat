@@ -1,0 +1,12 @@
+{
+  "name": "barebase-flat",
+  "homepage": "https://github.com/basecreative/barebase-flat",
+  "ignore": [
+    "LICENSE",
+    "*.md",
+    "*.json"
+  ],
+  "_source": "git://github.com/basecreative/barebase-flat.git",
+  "_target": "*",
+  "_originalSource": "basecreative/barebase-flat"
+}

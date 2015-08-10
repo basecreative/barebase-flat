@@ -1,5 +1,5 @@
 {
-  "name": "basecreative-flat",
+  "name": "barebase-flat",
   "version": "1.0.0",
   "description": "Flats for barebase",
   "main": "index.html",
@@ -15,10 +15,9 @@
     "sass",
     "css"
   ],
-  "author": "Jaime Caballero",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/basecreative/basecreative-flat/issues"
+    "url": "https://github.com/basecreative/barebase-flat/issues"
   },
-  "homepage": "https://github.com/basecreative/basecreative-flat"
+  "homepage": "https://github.com/basecreative/barebase-flat"
 }

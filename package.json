@@ -1,0 +1,15 @@
+{
+  "name": "barebase-flat",
+  "version": "1.0",
+  "homepage": "https://github.com/basecreative/barebase-flat",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/basecreative/barebase-flat"
+  },
+  "keywords": [
+    "barebase",
+    "sass",
+    "css"
+  ],
+  "license": "MIT"
+}
